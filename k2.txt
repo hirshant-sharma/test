@@ -1,0 +1,12 @@
+<html>
+    <head>
+        <title>
+             collage form link 
+        </title>
+    </head>
+    <body bgcolor="dark blue">
+      <center>
+        <h1><center><details> thank you for sumbit form</details></center> </h1>
+      </center>
+    </body>
+</html>

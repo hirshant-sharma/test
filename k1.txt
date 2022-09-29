@@ -1,0 +1,18 @@
+<html>
+    <head>
+        <title>
+             collage form link 
+        </title>
+        <style>
+          .h1{
+        margin: 0%;
+        padding: 0ps;
+          }
+        </style>
+    </head>
+    <body bgcolor="dark blue">
+      <center>
+        <h1><center><details>for sumbit you are form</details></center> </h1>
+      </center>
+    </body>
+</html>
