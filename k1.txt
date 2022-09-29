@@ -12,6 +12,7 @@
     </head>
     <body bgcolor="dark blue">
       <center>
+        <b><h1><center><details>check your collage name</details></center> </h1></b>
         <b><h2><center><details>for sumbit you are form</details></center> </h2></b>
       </center>
     </body>
